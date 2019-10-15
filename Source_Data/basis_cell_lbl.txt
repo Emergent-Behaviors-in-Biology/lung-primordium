@@ -1,0 +1,63 @@
+oocyte
+sperm
+placenta
+trophoblast stem cell
+episc
+esc
+HSC
+Common Myeloid Progenitor (CMP)
+Granulocyte-Monocyte Progenitor (GMP)
+Megakaryocyte-Erythroid Progenitor (MEP)
+pre B Cell
+B Cell
+monocytes - classical
+dendritic cell - plasmacytoid
+macrophage
+thymocyte DN
+thymocyte - DP
+T Cell
+natural killer cells
+neutrophils
+microglia
+erythroblast
+spleen
+Langerhans cell
+lymph node stromal cell
+medullary thymic epithelial
+terminal bronchiolar epithelial cells
+endothelial cell - gonad
+endothelial cell - blood vessel
+endothelial cell - lymphatic vessel
+msc
+osteoblast
+keratinocyte
+mef
+fibroblast - cardiac
+fibroblast - skin
+fibroblast - thymus
+myoblast
+skeletal muscle
+cardiomyocyte
+mammary gland - lactating
+adipose - white
+adipose - brown
+bladder
+kidney
+liver
+lung
+prostate
+pituitary
+thyroid
+pancreas - islets
+pancreas - whole
+intestine - large
+intestine - paneth cell
+intestine - small
+nsc
+npc
+neuron - glutamatergic
+olfactory epithelium
+retinal pigment epithelium
+cornea
+foregut
+thyroid_nkx+
