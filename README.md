@@ -1,5 +1,5 @@
 # lung-primordium
-This repository holds analysis and plotting scripts used in Ikonomou et al., "The Genetic Program of Primordial Lung Progenitors." 
+This repository holds analysis and plotting scripts used in Ikonomou et al., ["The in vivo genetic program of murine primordial lung epithelial progenitors"](https://www.nature.com/articles/s41467-020-14348-3).
 
 To generate visualizations and explore data, open the Jupyter notebook `The Genetic Program of Lung Progenitors -- Linear Algebra Projections.ipynb` in the `Scripts` folder. This notebook contains code to regenerate all the projections, using the functions defined in `lap_v2_py3.py`. 
 
